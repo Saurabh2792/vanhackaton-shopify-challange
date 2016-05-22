@@ -60,18 +60,6 @@
             android:textStyle="bold" />
 
         <TextView
-            android:id="@+id/textView"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_alignParentLeft="true"
-            android:layout_alignParentStart="true"
-            android:layout_below="@+id/btnLogin"
-            android:gravity="center"
-            android:text="@string/or"
-            android:textColor="@android:color/white"
-            android:textSize="18sp" />
-
-        <TextView
             android:id="@+id/signUp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"

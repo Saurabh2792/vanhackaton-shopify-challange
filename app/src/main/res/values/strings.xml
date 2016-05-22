@@ -20,4 +20,6 @@
     <string name="price.hint">$42 + shipping</string>
     <string name="add_product.hint">ADD THE PRODUCT</string>
     <string name="add">ADD</string>
+
+    <string name="facebook_app_id">622920711206305</string>
 </resources>
