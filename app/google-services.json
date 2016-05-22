@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "982896991036",
+    "firebase_url": "https://project-2706036786187052430.firebaseio.com",
+    "project_id": "project-2706036786187052430",
+    "storage_bucket": "project-2706036786187052430.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982896991036:android:9fe0676dc8bf7039",
+        "android_client_info": {
+          "package_name": "shopify.app.shopifyme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982896991036-v07ccbb4qd6om240qfavhb47jfvfvbju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZxRulUvYXJBuzllsoOxBPo6F5HYUVzZo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

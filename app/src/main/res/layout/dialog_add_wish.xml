@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/transparent_white">
+
+    <EditText
+        android:id="@+id/product"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="60dp"
+        android:layout_marginRight="60dp"
+        android:layout_marginTop="42dp"
+        android:gravity="center"
+        android:hint="@string/add_product.hint"
+        android:textColorHint="@color/transparent_black" />
+
+    <Button
+        android:id="@+id/add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/product"
+        android:layout_alignStart="@+id/product"
+        android:layout_below="@+id/product"
+        android:layout_marginTop="36dp"
+        android:background="?android:attr/selectableItemBackground"
+        android:text="@string/add"
+        android:textColor="@color/transparent_blue" />
+
+    <Button
+        android:id="@+id/cancel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/product"
+        android:layout_alignRight="@+id/product"
+        android:layout_alignTop="@+id/add"
+        android:background="?android:attr/selectableItemBackground"
+        android:text="@string/cancel"
+        android:textColor="@color/transparent_blue" />
+</RelativeLayout>

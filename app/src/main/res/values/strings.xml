@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ShopifyMe</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="create_account">DON\'T HAVE A ACCOUNT? <b>SIGN UP</b></string>
+    <string name="or">OR</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="password">PASSWORD</string>
+    <string name="email">EMAIL</string>
+    <string name="title_activity_sign_up">SignUpActivity</string>
+    <string name="cancel">Cancel</string>
+    <string name="confirm">Confirm</string>
+    <string name="confirm_password">CONFIRM PASSWORD</string>
+    <string name="title_activity_wish_list">WishListActivity</string>
+    <string name="wishlist">WISHLIST</string>
+    <string name="offers">OFFERS</string>
+    <string name="wish">WISH</string>
+    <string name="wish_list.hint">HI, ADD YOUR LIST \'+\'</string>
+    <string name="store">STORE</string>
+    <string name="price.hint">$42 + shipping</string>
+    <string name="add_product.hint">ADD THE PRODUCT</string>
+    <string name="add">ADD</string>
+</resources>
